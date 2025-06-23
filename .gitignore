@@ -1,0 +1,26 @@
+# Ignora pastas de compilação
+/out
+src/out/
+/build/
+/target/
+
+# IntelliJ IDEA
+src/.idea/
+.idea/
+/*.iml
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tmp
+*.swp
+.DS_Store
+
+# Arquivos de sistema
+Thumbs.db
