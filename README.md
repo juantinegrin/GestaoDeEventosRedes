@@ -1,4 +1,4 @@
-# Gestor de Eventos (POO)
+# Gestor de Eventos (versão docker)
 
 Este é um projeto de um Gestor de Eventos desenvolvido em Java, utilizando Programação Orientada a Objetos e um banco de dados MySQL rodando em um container Docker.
 
